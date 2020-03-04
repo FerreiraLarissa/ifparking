@@ -1,5 +1,5 @@
 <?php
-require ("conexaoBanco.php");
+require ("../db/conexaoBanco.php");
 $veiculo= $_POST["veiculo"];
 $placa= $_POST["placa"];
 $modelo= $_POST["modelo"];
@@ -17,6 +17,6 @@ $query2->bindValue(":cor",$cor);
 $query2->bindValue(":user",$idUser);
 $query2->execute();
 
-header('location:../Views/addVeiculo.php');
+header('location:CadastroDeVeiculo.php');
 
  ?>
