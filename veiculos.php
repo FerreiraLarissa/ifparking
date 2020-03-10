@@ -1,5 +1,6 @@
+<link rel="stylesheet" href="assets/css/global.css">
 <center>
-	<h1>veiculos Cadastrados</h1>
+	<h1>Veiculos Cadastrados</h1>
 </center>
 <table style=" border: 5px solid black;">
 		<tr>

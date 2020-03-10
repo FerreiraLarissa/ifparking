@@ -6,7 +6,7 @@
 <!-- All the files that are required -->
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="global.css">
+<link rel="stylesheet" href="assets/css/global.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.13.1/jquery.validate.min.js"></script>
 <script src="js.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
